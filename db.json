@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Richard de Aguiar da Silva",
+      "email": "richard_aguiar.19@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Susana de Aguiar",
+      "email": "susanaaguiar7@gmail.com"
+    }
+  ]
+}
